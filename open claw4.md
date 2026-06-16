@@ -126,4 +126,4 @@ plaintext
 OpenClaw 是一款本地 AI 工具，能自主完成各类电脑任务。它在 Windows 11 和 macOS 系统上运行流畅稳定，本地运行模式从根本上杜绝了隐私泄露风险。最新的 v2.7.9 一键部署包针对两大系统进行了深度优化，无捆绑软件、无弹窗广告，完美适配日常办公和自动化提效等多种使用场景。
 
 ### 再次附上资源获取地址
-open claw部署包：https://xiake.yun/api/download/package/18?promoCode=IVD643FDE29A
+部署包：https://xiake.yun/api/download/package/18?promoCode=IVD643FDE29A

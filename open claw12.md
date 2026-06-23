@@ -2,7 +2,7 @@
 
 下载地址：
 https://xiake.yun/api/download/package/18?promoCode=IVD643FDE29A
-plaintext
+
 
 ## ⚠️ 安装前置重要提醒
 在进行下载解压、程序安装、启动运行之前，一定要彻底关闭电脑所有安全防护软件，避免核心文件被误报拦截、隔离甚至删除，造成部署失败、程序打不开等问题。
